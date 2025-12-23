@@ -122,5 +122,8 @@ The project emphasizes maintainability, scalability, and performance by applying
 - Generating official receipts, vouchers, and reports
 
 ---
+## 👨‍💻 Developer
 
+**Abdulbari**
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967783399063)
